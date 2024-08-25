@@ -39,62 +39,6 @@ function App() {
                 </div>
             ))}
         </div>
-        <div className="link-container">
-            { data.map((item) => (
-                <div className="link-item">
-                    <a href={item} target="_blank">{item}</a>
-                </div>
-            ))}
-        </div>
-        <div className="link-container">
-            { data.map((item) => (
-                <div className="link-item">
-                    <a href={item} target="_blank">{item}</a>
-                </div>
-            ))}
-        </div>
-        <div className="link-container">
-            { data.map((item) => (
-                <div className="link-item">
-                    <a href={item} target="_blank">{item}</a>
-                </div>
-            ))}
-        </div>
-        <div className="link-container">
-            { data.map((item) => (
-                <div className="link-item">
-                    <a href={item} target="_blank">{item}</a>
-                </div>
-            ))}
-        </div>
-        <div className="link-container">
-            { data.map((item) => (
-                <div className="link-item">
-                    <a href={item} target="_blank">{item}</a>
-                </div>
-            ))}
-        </div>
-        <div className="link-container">
-            { data.map((item) => (
-                <div className="link-item">
-                    <a href={item} target="_blank">{item}</a>
-                </div>
-            ))}
-        </div>
-        <div className="link-container">
-            { data.map((item) => (
-                <div className="link-item">
-                    <a href={item} target="_blank">{item}</a>
-                </div>
-            ))}
-        </div>
-        <div className="link-container">
-            { data.map((item) => (
-                <div className="link-item">
-                    <a href={item} target="_blank">{item}</a>
-                </div>
-            ))}
-        </div>
     </div>
   );
 }
